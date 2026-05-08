@@ -1,0 +1,2 @@
+Online Skill Matrix System is a project in which online Skill Matrix facility is provided to the students through that they can check their knowledge level and programming skills.
+This project is basically divided into three modules. First module is Admin Module which controls all the process whereas Member Module actually uses the software associated with the website and the last Registration Module which Concern with all the process regarding registration.
